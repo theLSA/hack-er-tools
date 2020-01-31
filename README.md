@@ -42,10 +42,10 @@ hack-er-tools - some tools for emergency response
 
 ## 信息收集(getinfo/)
 
-**Emergency-master**：应急响应信息收集的脚本
-**GScan-master**：实现主机侧Checklist的自动全面化检测
-**LinEnum-master**：Scripted Local Linux Enumeration & Privilege Escalation Checks 
-**LinuxCheck-master**：一个linux信息搜集小脚本 主要用于应急响应
+**Emergency-master**：应急响应信息收集的脚本<br/>
+**GScan-master**：实现主机侧Checklist的自动全面化检测<br/>
+**LinEnum-master**：Scripted Local Linux Enumeration & Privilege Escalation Checks <br/>
+**LinuxCheck-master**：一个linux信息搜集小脚本 主要用于应急响应<br/>
 
 ## 日志分析(log-check/)
 

@@ -9,6 +9,8 @@ hack-er-tools - some tools for emergency response
 
 欢迎大家补充和推荐！
 
+pdf下载：[https://github.com/theLSA/hack-er-tools/releases/download/1.0/hack-er-tools.pdf](https://github.com/theLSA/hack-er-tools/releases/download/1.0/hack-er-tools.pdf)
+
 * [AV(av/)](#avav)
 * [信息收集(getinfo/)](#信息收集getinfo)
 * [日志分析(log-check/)](#日志分析log-check)
@@ -34,7 +36,7 @@ hack-er-tools - some tools for emergency response
 **md_setup_en.exe**：360的，类似火绒剑，只能32位win使用<br/>
 **safedogwzApache.exe**：安全狗apache版<br/>
 **SfabAntiBot_x64(x86).7z**：深信服的查杀软件<br/>
-**卡巴斯基**：[http://devbuilds.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe  ](http://devbuilds.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe  ) <br/>
+**卡巴斯基**：[http://devbuilds.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe](http://devbuilds.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe  ) <br/>
 **大蜘蛛**：[http://free.drweb.ru/download+cureit+free](http://free.drweb.ru/download+cureit+free) <br/>
 **火绒安全软件**：[https://www.huorong.cn](https://www.huorong.cn) <br/>
 **360杀毒**：[http://sd.360.cn/download_center.html](http://sd.360.cn/download_center.html) <br/>

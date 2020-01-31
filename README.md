@@ -49,104 +49,103 @@ hack-er-tools - some tools for emergency response
 
 ## 日志分析(log-check/)
 
-**Fastir_Collector_Linux-master**：This tool collects different artefacts on live Linux and records the results in csv files
-**logC**
-**LogViewer**：一个通用的日志查看器
-**LPSV2.D2**
-**OkCat**：强大的日志处理组件
-**misc**：收集的一些杂项日志分析工具
-**Request-log-analyzer**：This is a simple command line tool to analyze request log files in various formats to produce a performance report
-**SR_LogAnalyzer**：辅助网络安全应急响应，自动化的分析日志，找出入侵行为
+**Fastir_Collector_Linux-master**：This tool collects different artefacts on live Linux and records the results in csv files<br/>
+**logC**<br/>
+**LogViewer**：一个通用的日志查看器<br/>
+**LPSV2.D2**<br/>
+**OkCat**：强大的日志处理组件<br/>
+**misc**：收集的一些杂项日志分析工具<br/>
+**Request-log-analyzer**：This is a simple command line tool to analyze request log files in various formats to produce a performance report<br/>
+**SR_LogAnalyzer**：辅助网络安全应急响应，自动化的分析日志，找出入侵行为<br/>
 **USBLogView v1.25**：USBLogView is a small utility that runs in the background and records the
-details of any USB device that is plugged or unplugged into your system
-**web/apache**：一些apache日志分析工具
-**web/iis**：一些iis日志分析工具
-**web/nginx**：一些nginx日志分析工具
-**web/tomcat**：一些tomcat日志分析工具
-**AWStats**：AWStats (Advanced Web Statistics) is a powerful, full-featured web server
-logfile analyzer which shows you all your Web statistics
-**GoAccess**：real-time web log analyzer
-**web-log-parser**：开源的分析web日志工具，采用python语言开发，具有灵活的日志格式配置
-**windows/**：一些windows系统日志分析工具
-**linux/**：一些linux系统日志分析工具
-**xingtu_full**
-**xlog**：基于flex & bison的web日志扫描工具
+details of any USB device that is plugged or unplugged into your system<br/>
+**web/apache**：一些apache日志分析工具<br/>
+**web/iis**：一些iis日志分析工具<br/>
+**web/nginx**：一些nginx日志分析工具<br/>
+**web/tomcat**：一些tomcat日志分析工具<br/>
+**AWStats**：AWStats (Advanced Web Statistics) is a powerful, full-featured web server<br/>
+logfile analyzer which shows you all your Web statistics<br/>
+**GoAccess**：real-time web log analyzer<br/>
+**web-log-parser**：开源的分析web日志工具，采用python语言开发，具有灵活的日志格式配置<br/>
+**windows/**：一些windows系统日志分析工具<br/>
+**linux/**：一些linux系统日志分析工具<br/>
+**xingtu_full**<br/>
+**xlog**：基于flex & bison的web日志扫描工具<br/>
 
 ## 进程分析(process-check/)
 
-**Process Hacker**：a powerful free and open source process viewer
-**processlassosetup64.exe**
+**Process Hacker**：a powerful free and open source process viewer<br/>
+**processlassosetup64.exe**<br/>
 
 ## 流量检测
 
-**wireshark**
+**wireshark**<br/>
 
 ## rootkit检测(rat-check/)
 
-**chkrootkit-m 0.2**：a chkrootkit Python port for mobile phones
-**rkhunter-1.4.6.tar.gz**
-**Tyton**：Linux Kernel-Mode Rootkit Hunter for 4.4.0-31+
+**chkrootkit-m 0.2**：a chkrootkit Python port for mobile phones<br/>
+**rkhunter-1.4.6.tar.gz**<br/>
+**Tyton**：Linux Kernel-Mode Rootkit Hunter for 4.4.0-31+<br/>
 
 ## webshell检测(webshell-check/)
 
-**d-dun/**：d盾
-**hm/**：河马webshell扫描器
-**PHP-Shell-Detector-master.zip**：Web Shell Detector
-**safedog/**：安全狗
-**WebShellKillerForLinux.tar.gz**
-**WebShellKillerTool.rar**
-**sangfor**：[http://edr.sangfor.com.cn/backdoor_detection.html](http://edr.sangfor.com.cn/backdoor_detection.html) 
-**Safe3**
+**d-dun/**：d盾<br/>
+**hm/**：河马webshell扫描器<br/>
+**PHP-Shell-Detector-master.zip**：Web Shell Detector<br/>
+**safedog/**：安全狗<br/>
+**WebShellKillerForLinux.tar.gz**<br/>
+**WebShellKillerTool.rar**<br/>
+**sangfor**：[http://edr.sangfor.com.cn/backdoor_detection.html](http://edr.sangfor.com.cn/backdoor_detection.html) <br/>
+**Safe3**<br/>
 
 ## 挖矿检测(miner-check/)
 
-**DDG_MalWare_Clean_Tool-master.zip**
-**whatMiner-master.zip**：整理和收集遇见的各种恶意挖矿样本以供研究和学习之用
+**DDG_MalWare_Clean_Tool-master.zip**<br/>
+**whatMiner-master.zip**：整理和收集遇见的各种恶意挖矿样本以供研究和学习之用<br/>
 
 ## 勒索检测(ransomware-check/)
 
-**banlangen**：一个基于注册表，用于免疫WannaCrypt勒索蠕虫的小脚本
-**BDGandCrabDecryptTool.exe**
-**clear_seasame.sh**
+**banlangen**：一个基于注册表，用于免疫WannaCrypt勒索蠕虫的小脚本<br/>
+**BDGandCrabDecryptTool.exe**<br/>
+**clear_seasame.sh**<br/>
 
 ## RAT检测(rat-check/)
 
-**rat-check/**
+**rat-check/**<br/>
 
 ## EXP检测(exp-check/)
 
-**linux-exploit-suggester-master.zip**
-**Windows-Exploit-Suggester-master.zip**
-**wesng-master.zip**：Windows Exploit Suggester - Next Generation (WES-NG)
+**linux-exploit-suggester-master.zip**<br/>
+**Windows-Exploit-Suggester-master.zip**<br/>
+
 
 ## 综合分析工具(synthesis/)
 
-**EmergencyResponse-master.zip**
-**LinuxEmergency**：Linux下的应急工具，支持CentOS系统和RedHat系统
-**linux**：linux安全检查
-**Loki**：Simple IOC Scanner
-**Lynis**：Security auditing and hardening tool, for UNIX-based systems.
-**PCHunter_free.zip**
-**PowerTool_2.0_PortableSoft.7z**
-**security_check**：收集各类安全检查脚本
-**SysinternalsSuite.zip**：microsoft的工具包
-**VirusCheckTools**：基于行为特征进行快速匹配病毒专杀工具
-**windows-emergency-servicetools-master.zip**：windows下一款可视化，一键检测辅助应急工具，生成数据采集、关联报告
-**Windowsxtaqjcjb_bat_jb51.rar**：windows系统安全检查
-**yingji**
-**yingji-master.zip**
-**应急工具集**
+**EmergencyResponse-master.zip**<br/>
+**LinuxEmergency**：Linux下的应急工具，支持CentOS系统和RedHat系统<br/>
+**linux**：linux安全检查<br/>
+**Loki**：Simple IOC Scanner<br/>
+**Lynis**：Security auditing and hardening tool, for UNIX-based systems.<br/>
+**PCHunter_free.zip**<br/>
+**PowerTool_2.0_PortableSoft.7z**<br/>
+**security_check**：收集各类安全检查脚本<br/>
+**SysinternalsSuite.zip**：microsoft的工具包<br/>
+**VirusCheckTools**：基于行为特征进行快速匹配病毒专杀工具<br/>
+**windows-emergency-servicetools-master.zip**：windows下一款可视化，一键检测辅助应急工具，生成数据采集、关联报告<br/>
+**Windowsxtaqjcjb_bat_jb51.rar**：windows系统安全检查<br/>
+**yingji-master.zip**<br/>
+**应急工具集**<br/>
 
 ## misc(misc/)
-**autorun**：启动项分析
-**danderspritz-evtx**：Parse evtx files and detect use of the DanderSpritz `eventlogedit` module
-**dfirtriage**：Digital forensic acquisition tool for Windows-based incident response.
-**LogonTracer**：Investigate malicious logon by visualizing and analyzing Windows active directory event logs.
-**radare2-master.zip**：r2 is a rewrite from scratch of radare in order to provide a set of libraries and tools to work with binary files
-**SafetyDump**：SafetyDump is an in-memory process memory dumper
-**skpd**：Process dump to executable ELF for linux
-**Volatility**：Volatile memory extraction utility framework
-**autopsy**：kali自带的取证工具 [https://github.com/sleuthkit/autopsy/releases/download/autopsy-4.14.0/autopsy-4.14.0.zip](https://github.com/sleuthkit/autopsy/releases/download/autopsy-4.14.0/autopsy-4.14.0.zip) 
+**autorun**：启动项分析<br/>
+**danderspritz-evtx**：Parse evtx files and detect use of the DanderSpritz `eventlogedit` module<br/>
+**dfirtriage**：Digital forensic acquisition tool for Windows-based incident response.<br/>
+**LogonTracer**：Investigate malicious logon by visualizing and analyzing Windows active directory event logs.<br/>
+**radare2-master.zip**：r2 is a rewrite from scratch of radare in order to provide a set of libraries and tools to work with binary files<br/>
+**SafetyDump**：SafetyDump is an in-memory process memory dumper<br/>
+**skpd**：Process dump to executable ELF for linux<br/>
+**Volatility**：Volatile memory extraction utility framework<br/>
+**autopsy**：kali自带的取证工具 [https://github.com/sleuthkit/autopsy/releases/download/autopsy-4.14.0/autopsy-4.14.0.zip](https://github.com/sleuthkit/autopsy/releases/download/autopsy-4.14.0/autopsy-4.14.0.zip) <br/>
 
 ## 病毒分析
 

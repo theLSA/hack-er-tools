@@ -239,8 +239,6 @@ CVERC-国家计算机病毒应急处理中心：[http://www.cverc.org.cn](http:/
 
 ## 相关项目
 
-[https://github.com/theLSA/emergency-response-checklist](https://github.com/theLSA/emergency-response-checklist)
-
 [https://github.com/hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) 
 
 [https://github.com/rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) 

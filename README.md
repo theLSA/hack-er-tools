@@ -1,4 +1,4 @@
-hack-er-tools - some tools for emergency response
+hack-er-tools：应急响应工具包
 ===
 
 **USE AT YOUR OWN RISK!**
